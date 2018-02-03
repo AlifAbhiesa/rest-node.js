@@ -1,11 +1,11 @@
 
 <h1>Install node js</h1>
-Download on this link : https://nodejs.org/en/download/
+Download on this link : https://nodejs.org/en/download/</br>
 
 <h1> configuration </h1>
-Create database
-1. db name : crud
-Add table
+Create database</br>
+1. db name : crud</br>
+Add table</br>
 1. table name : persons
 - id int(11)
 - firstName varchar(100)
